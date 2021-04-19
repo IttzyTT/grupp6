@@ -9,7 +9,6 @@ function Home() {
         <div className="left-container">
           <h1 className="studiotitle">studio</h1>
           <h1 className="gruppTitle">grupp6.</h1>
-          <a href="/">PROJEKT</a>
         </div>
         <div className="mid-container">
           <img className="frontPicture" src={frontPicture} alt="art giraff" />
