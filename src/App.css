@@ -91,8 +91,9 @@ footer {
 .leftFoot {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   width: 50%;
-  padding: 2rem 10rem;
+  padding: 2rem 5rem;
   text-align: center;
 }
 .socialIcons {
@@ -102,15 +103,16 @@ footer {
 }
 
 .socialIcons img {
-  width: 3rem;
+  width: 2rem;
 }
 .rightFoot {
   width: 50%;
-  padding: 2rem 10rem;
+  padding: 2rem 5rem;
 }
 
-.upper {
-  margin-bottom: 3rem;
+.upper p {
+  margin-bottom: 2rem;
+  font-size: 1rem;
 }
 .lower {
   display: flex;

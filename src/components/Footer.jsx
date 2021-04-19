@@ -22,8 +22,17 @@ function Footer() {
           </p>
         </div>
         <div className="lower">
-          <div className="contact">kontakt</div>
-          <div className="adress">adress</div>
+          <div className="contact">
+            <h2>Kontakt</h2>
+            <p>Telefon: 123 456 67</p>
+            <p>Email: varmail@domain.se</p>
+          </div>
+          <div className="adress">
+            <h2>Adress</h2>
+            <p>Företags adress</p>
+            <p>12 Gatuadress gata</p>
+            <p>123 45 Stockholm</p>
+          </div>
         </div>
       </div>
     </footer>
