@@ -15,7 +15,9 @@ function Home() {
         </div>
         <div className="right-container">
           <a href="/">hem</a>
+          <a href="/">om oss</a>
           <a href="/">designers</a>
+          <a href="/">portfoilio</a>
         </div>
       </div>
     </div>
