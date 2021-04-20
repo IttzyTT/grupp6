@@ -42,6 +42,32 @@ body {
   color: #555252;
 }
 
+.designTitle {
+  font-size: 5.5rem;
+  color: #555252;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0); /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #555252;
+  text-align: center;
+  margin-bottom: -7vh;
+}
+
+.designContainer{
+width: 90%;
+height: 100vh;
+background: linear-gradient(343deg, rgb(241, 210, 180) 0%, rgba(243, 223, 209, 0) 100%);
+border-radius: 6px;
+margin: auto;
+}
+
+.main-container-designer {
+  display: flex;
+  justify-content: flex-end;
+  height: 70vh;
+  position: relative;
+  left: -120px;
+}
+
 .inner-container {
   display: flex;
   justify-content: space-between;

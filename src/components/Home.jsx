@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from "react-router-dom";
 import frontPicture from '../giraff.png';
 import '../App.css';
 
@@ -14,10 +15,10 @@ function Home() {
           <img className="frontPicture" src={frontPicture} alt="art giraff" />
         </div>
         <div className="right-container">
-          <a href="/">hem</a>
-          <a href="/">om oss</a>
-          <a href="/">designers</a>
-          <a href="/">portfoilio</a>
+          <Link to="/">hem</Link>
+          <Link to="/">om oss</Link>
+          <Link to="/Designers">designers</Link>
+          <Link to="/">portfoilio</Link>
         </div>
       </div>
     </div>
