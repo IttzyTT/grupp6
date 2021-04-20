@@ -29,25 +29,25 @@ export default function Designers() {
           </div>
 
        
-          <div class="pMatilda"><img className= "MatildasPic" src={MatildasAvatar} alt="Matilda"/><div className="TextMatilda">
+          <div className="pMatilda"><img className= "MatildasPic" src={MatildasAvatar} alt="Matilda"/><div className="TextMatilda">
              <Link to="/Matilda">Matilda Stridsman</Link> <h4>Titel: Scrum Master</h4>  
              <p>
             Lorem ipsum dolor sit amet consectetur adipisicing
              elit. Cum incidunt ut corrupti optio ea culpa</p></div></div>
 
-          <div class="pMax"><img className= "MaxsPic" src={MaxsAvatar} alt="Max"/> <div className="TextMax">
+          <div className="pMax"><img className= "MaxsPic" src={MaxsAvatar} alt="Max"/> <div className="TextMax">
           <Link to="/Max">Max Zetterlund</Link><h4>Titel: Github Master</h4>   
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing
              elit. Cum incidunt ut corrupti optio ea culpa</p></div></div>
 
-          <div class="pIgor"><img className= "IgorsPic" src={IgorsAvatar} alt="Igor"/> <div className="TextIgor">
+          <div className="pIgor"><img className= "IgorsPic" src={IgorsAvatar} alt="Igor"/> <div className="TextIgor">
           <Link to="/Igor">Igor Ljevak</Link><h4>Titel: Pro Designer</h4>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing
              elit. Cum incidunt ut corrupti optio ea culpa</p></div></div>
 
-          <div class="pJoel"><img className= "JoelsPic" src={JoelAvatar} alt="Joel"/> <div className="TextJoel">
+          <div className="pJoel"><img className= "JoelsPic" src={JoelAvatar} alt="Joel"/> <div className="TextJoel">
           <Link to="/Joel">Joel Morales </Link><h4>Titel: Pro tester</h4>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing

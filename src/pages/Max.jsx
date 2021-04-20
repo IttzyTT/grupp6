@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 export default function MaxsPage() {
     return (
         <div className="designOutsideContainer">
-        <h1 className="designTitle">designers</h1>
+        <h1 className="designTitle">Github master</h1>
         <div className="designContainer">
         <h1>Max sida</h1>
         <div className="profile-grid">
