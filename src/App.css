@@ -228,9 +228,40 @@ footer {
   float: left;
 }
 
+/* Max CSS */
+
 .MaxsPic {
   width: 200px;
   float: left;
+}
+.MaxsPage{
+  width: 200px;
+  float: left;
+  margin-left: 110px;
+  margin-top: 30px;
+}
+.mid-container-max{
+
+overflow: visible;
+    width: 40%;
+    position: absolute;
+    top: 13%;
+    left: 33%;
+}
+
+.Max-Title{
+  font-size: 4rem;
+  color: #555252;
+}
+.Max-designTitle{
+font-size: 5.5rem;
+color: #555252;
+-webkit-text-fill-color: rgba(255, 255, 255, 0);
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: #555252;
+text-align: center;
+margin-bottom: -3vh;
+text-align: left;
 }
 
 .IgorsPic {
