@@ -191,13 +191,14 @@ footer {
   justify-content: space-around;
   height: 20vh;
   padding: 0 7rem;
+  margin-bottom: 7rem;
 }
 .leftFoot {
   display: flex;
   flex-direction: column;
   justify-content: center;
   width: 50%;
-  padding: 2rem 5rem;
+  padding: 2rem 20rem;
   text-align: center;
 }
 .socialIcons {
